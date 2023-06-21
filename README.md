@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ephesus
 
 Ephesus Jekyll Theme - Simple and Minimal Jekyll Blog Theme
@@ -61,3 +62,7 @@ Please feel free to contribute. Do not hesitate to open a pull request and fix i
 ## New License
 
 This project is open source and available under the [MIT License](LICENSE.md).
+=======
+# blogs
+Personal Blog because written words remain, written thoughts remain too.
+>>>>>>> 6ef56cf (Initial commit)

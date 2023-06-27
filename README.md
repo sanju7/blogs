@@ -58,5 +58,6 @@ Feel free to open a pull request for contributing.
 Please feel free to contribute. Do not hesitate to open a pull request and fix it, please read [contributing](./CONTRIBUTING.md) before PR.
 
 ## License
+## New License
 
 This project is open source and available under the [MIT License](LICENSE.md).

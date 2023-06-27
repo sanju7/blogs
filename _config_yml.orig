@@ -1,9 +1,9 @@
 # Site settings
 site: Ephesus
-title: written words that wraps our fiber \!
-keywords: ephesus, blog, tech, life
+title: Ephesus - Minimalist Jekyll Theme
+keywords: ephesus, blog
 description: >-
-  All that 
+  Ephesus - Minimalist Jekyll Theme
 lang: en-US
 timezone:  Europe/Istanbul
 repo: https://github.com/onepase/Ephesus # site repo [optional]
@@ -13,16 +13,16 @@ discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Sanjay Anand
+  name: Hakan Torun
   bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
-  picture: assets/images/sa_profiles.png 
-  github: sanju7 # github username
-  twitter: sanju7 # twitter username
-  facebook: sanjay.anand.56808995 # facebook username
-  instagram: skipper__big # instagram username
-  youtube: https://www.youtube.com/@SanjayAnand1UP # youtube username
-  linkedin: sanjay-anand-5599007 # linkedin username
-  email: hi@sanjayanand.pro # email adress
+  picture: assets/images/profile.jpg 
+  github: onepase # github username
+  twitter: onepase # twitter username
+  facebook: onepase # facebook username
+  instagram: onepase # instagram username
+  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
+  linkedin: hakantorun # linkedin username
+  email: your-email@email.com # email adress
 
 
 # URL settings

@@ -6,7 +6,11 @@ description: >-
   All that 
 lang: en-US
 timezone:  Europe/Istanbul
+<<<<<<< HEAD
+repo: https://github.com/onepase/Ephesus # site repo [optional]
+=======
 repo: https://github.com/sanju7/blogs/ # site repo [optional]
+>>>>>>> dadab40 (_config.yml site setting)
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
 discus-identifier:  XXX
@@ -26,7 +30,11 @@ author:
 
 
 # URL settings
+<<<<<<< HEAD
+url: "http://127.0.0.1:4000" # Domain Name of host. [username].github.io for github pages
+=======
 url: "https://sanju7.github.io/" # Domain Name of host. [username].github.io for github pages
+>>>>>>> dadab40 (_config.yml site setting)
 permalink: pretty
 
 markdown: kramdown

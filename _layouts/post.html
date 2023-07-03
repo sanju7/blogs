@@ -10,9 +10,9 @@ layout: default
 	<div class="post-date">{{ page.date | date: "%d.%m.%Y" }}</div>
 	<div class="post-share">
 		Share:&nbsp; 
-		<a href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{ site.baseurl }}/{{page.slug}}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/icon/facebook.svg" class="social-icon"></a>
-		<a href="https://twitter.com/intent/tweet?source=tweetbutton&amp;original_referer={{site.url}}{{ site.baseurl }}/{{page.slug}}&amp;text={{page.title}} - {{site.url}}{{ site.baseurl }}/{{page.slug}}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/icon/twitter.svg" class="social-icon"></a>
-		<a href="https://api.whatsapp.com/send?text={{site.url}}{{ site.baseurl }}/{{page.slug}}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/icon/whatsapp.svg" class="social-icon"></a>
+		<a href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{ site.baseurl }}/{{page.slug}}" target="_blank"><img src="{{ site.baseurl }}/assets/images/icon/facebook.svg" class="social-icon"></a>
+		<a href="https://twitter.com/intent/tweet?source=tweetbutton&amp;original_referer={{site.url}}{{ site.baseurl }}/{{page.slug}}&amp;text={{page.title}} - {{site.url}}{{ site.baseurl }}/{{page.slug}}" target="_blank"><img src="{{ site.baseurl }}/assets/images/icon/twitter.svg" class="social-icon"></a>
+		<a href="https://api.whatsapp.com/send?text={{site.url}}{{ site.baseurl }}/{{page.slug}}" target="_blank"><img src="{{ site.baseurl }}/assets/images/icon/whatsapp.svg" class="social-icon"></a>
 	</div>
 </div>
 
@@ -27,9 +27,9 @@ layout: default
 </div>
 <div class="navigation">
 	{% if page.previous %}
-		<a class="prev" href="{{ page.previous | relative_url }}">< {{ page.previous.title }}</a>
+	<a class="prev" href="{{ site.baseurl }}{{ page.previous | relative_url }}">< {{ page.previous.title }}</a>
 	{% endif %} {% if page.next %}
-	<a class="next" href="{{ page.next | relative_url }}">{{ page.next.title }} ></a>
+	<a class="next" href="{{ site.baseurl }}{{ page.next | relative_url }}">{{ page.next.title }} ></a>
 {% endif %}
 </div>
 {% include disqus.html %}

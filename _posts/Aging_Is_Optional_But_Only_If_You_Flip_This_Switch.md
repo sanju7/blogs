@@ -16,7 +16,7 @@ tags: [ephesus, jekyll]
  Over the years, I’ve separated fact from fiction—what truly works, what is suggestive, and what depends on individual factors. Now, as excited as a nine-year-old, I’m sharing these insights here—so everyone can explore, test, and take what resonates. 
  All facts, No fluf, challenge everything with your own experience.” 
 
- ![HealthUp ](/blogs/assets/images/HealthUp.png "health_up")
+ ![HealthUp ](/blogs/assets/images/health_up.png "health_up")
 
 1️⃣ The Illusion of Inevitable Aging 
 

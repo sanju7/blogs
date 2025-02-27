@@ -9,7 +9,7 @@ tags: [ephesus, jekyll]
 ---
  
  
- Aging Is Optional – But Only If You Flip This Switch 
+ // Aging Is Optional – But Only If You Flip This Switch //
 
  I’m Sanjay Anand—a lifelong researcher of what i do and health, performance, and optimization are some of my persuits. Over the years, I’ve experimented, applied, and refined strategies that have helped me reverse aging markers, improve cognitive clarity, and outperform even those a decade younger. 
  This blog isn’t about generic advice—it’s about real, tested insights. 

@@ -1,3 +1,14 @@
+---
+title: "Aging Is Optional – But Only If You Flip This Switch "
+date: 2025-02-27T00:00:00+00:00
+author: Sanjay Anand
+layout: post
+permalink: /ephesus-jekyll-blog-theme/
+categories: Genel
+tags: [ephesus, jekyll]
+---
+ 
+ 
  Aging Is Optional – But Only If You Flip This Switch 
 
  I’m Sanjay Anand—a lifelong researcher of what i do and health, performance, and optimization are some of my persuits. Over the years, I’ve experimented, applied, and refined strategies that have helped me reverse aging markers, improve cognitive clarity, and outperform even those a decade younger. 
@@ -5,7 +16,7 @@
  Over the years, I’ve separated fact from fiction—what truly works, what is suggestive, and what depends on individual factors. Now, as excited as a nine-year-old, I’m sharing these insights here—so everyone can explore, test, and take what resonates. 
  All facts, No fluf, challenge everything with your own experience.” 
 
- ![HealthUp ](/blogs/assets/images/HealthUp.png "HealthUp")
+ ![HealthUp ](/blogs/assets/images/HealthUp.png "health_up")
 
 1️⃣ The Illusion of Inevitable Aging 
 
@@ -36,7 +47,7 @@ Flipping the switch isn’t about just resisting aging—it’s about actively r
 🔹 Sleep as a Regenerator – Intense workouts reset circadian rhythms, increase deep sleep cycles, and improve recovery. 
 
  
- ![Flip The Switch of Ageing ](/blogs/assets/images/flip_the_switch.png "Flip the Switch of Ageing")
+ ![Flip The Age Switch ](/blogs/assets/images/flip_the_age_switch.png "Flip the Age Switch")
 
 Each of these isn’t just maintenance—it’s flipping a biological switch that reverses decline and upgrades performance. 
 
@@ -105,7 +116,7 @@ I’ve had colleagues refuse to believe my real age until I show them my ID. Tha
 
 Now, what is epigenetics? What does literally mean to reverse body clock? And how do they truly impact aging? Tune in for the next blog post.
 
- ![Epigenetic Activation ](/blogs/assets/images/epigenetic_activation.png "Epigenetic Activation")
+ ![Epigenetic Activation ](/blogs/assets/images/epigenetics_activation.png "Epigenetic Activation")
 
 
 Principle What It Does Actionable Step 

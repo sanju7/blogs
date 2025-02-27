@@ -9,16 +9,18 @@ tags: [ephesus, jekyll]
 ---
  
  
- # Aging Is Optional – But Only If You Flip This Switch 
+ # Who Am I ?
 
  I’m Sanjay Anand—a lifelong researcher of what i do and health, performance, and optimization are some of my persuits. Over the years, I’ve experimented, applied, and refined strategies that have helped me reverse aging markers, improve cognitive clarity, and outperform even those a decade younger. 
  This blog isn’t about generic advice—it’s about real, tested insights. 
  Over the years, I’ve separated fact from fiction—what truly works, what is suggestive, and what depends on individual factors. Now, as excited as a nine-year-old, I’m sharing these insights here—so everyone can explore, test, and take what resonates. 
  All facts, No fluf, challenge everything with your own experience.” 
+ 
+<img src="/assets/images/health_up.png" width="400" alt="HealthUp">
 
  ![HealthUp ](/assets/images/health_up.png "HealthUp")
 
-1️⃣ The Illusion of Inevitable Aging 
+# 1️⃣ The Illusion of Inevitable Aging 
 
 • Society treats aging as linear decay—as if the body simply declines over time. 
 
@@ -29,7 +31,7 @@ tags: [ephesus, jekyll]
  
  
 
-2️⃣ What Flipping the Switch Really Means 
+# 2️⃣ What Flipping the Switch Really Means 
 
  
  
@@ -54,7 +56,7 @@ Each of these isn’t just maintenance—it’s flipping a biological switch tha
  
  
 
-3️⃣ How to Activate This Switch in Your Own Body 
+# 3️⃣ How to Activate This Switch in Your Own Body 
 
  
  
@@ -72,7 +74,7 @@ This isn’t about generic advice like “exercise more”—this is about preci
  
  
 
-4️⃣ The Takeaway: Aging Isn’t a Number—It’s a Choice 
+# 4️⃣ The Takeaway: Aging Isn’t a Number—It’s a Choice 
 
 • The real switch isn’t just effort—it’s consistency in the right type of effort. 
 
@@ -84,7 +86,7 @@ This isn’t about generic advice like “exercise more”—this is about preci
 
  
 
-5️⃣ Personal Experience – A Testament to Flipping the Switch 
+# 5️⃣ Personal Experience – A Testament to Flipping the Switch 
 
  
  
@@ -104,7 +106,7 @@ I’ve had colleagues refuse to believe my real age until I show them my ID. Tha
 
  
 
-6️⃣ Key Takeaways – Flipping the Switch on Aging 
+# 6️⃣ Key Takeaways – Flipping the Switch on Aging 
 
 ![Reversing the body clock ](/assets/images/reversing_bodyclock.png "Reversing the body clock")
 

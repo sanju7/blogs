@@ -3,7 +3,7 @@ title: "Aging Is Optional – But Only If You Flip This Switch "
 date: 2025-02-27T00:00:00+00:00
 author: Sanjay Anand
 layout: post
-permalink: /body-clock-reset/
+permalink: /flip-the-age-switch/
 categories: Genel
 tags: [Healthup, Ageing, Flip The Switch, Epigenetics, Longevity, Strength Training, HIIT, Bio-Hacking, BodyClock]
 ---

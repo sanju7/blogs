@@ -9,18 +9,18 @@ tags: [ephesus, jekyll]
 ---
  
  
- # Who Am I ?
-
+ ### **Who Am I ?**
+<img src="/assets/images/health_up.png" align="right" width="200" alt="HealthUp">
  I’m Sanjay Anand—a lifelong researcher of what i do and health, performance, and optimization are some of my persuits. Over the years, I’ve experimented, applied, and refined strategies that have helped me reverse aging markers, improve cognitive clarity, and outperform even those a decade younger. 
  This blog isn’t about generic advice—it’s about real, tested insights. 
  Over the years, I’ve separated fact from fiction—what truly works, what is suggestive, and what depends on individual factors. Now, as excited as a nine-year-old, I’m sharing these insights here—so everyone can explore, test, and take what resonates. 
  All facts, No fluf, challenge everything with your own experience.” 
  
-<img src="/assets/images/health_up.png" width="400" alt="HealthUp">
 
- ![HealthUp ](/assets/images/health_up.png "HealthUp")
 
-# 1️⃣ The Illusion of Inevitable Aging 
+ 
+
+**1️⃣ The Illusion of Inevitable Aging** 
 
 • Society treats aging as linear decay—as if the body simply declines over time. 
 
@@ -31,7 +31,7 @@ tags: [ephesus, jekyll]
  
  
 
-# 2️⃣ What Flipping the Switch Really Means 
+**2️⃣ What Flipping the Switch Really Means** 
 
  
  
@@ -48,15 +48,16 @@ Flipping the switch isn’t about just resisting aging—it’s about actively r
 
 🔹 Sleep as a Regenerator – Intense workouts reset circadian rhythms, increase deep sleep cycles, and improve recovery. 
 
+<img src="/assets/images/flip_the_age_switch.png " align="right" width="200" alt="Flip the Age Switch">
  
- ![Flip The Age Switch ](/assets/images/flip_the_age_switch.png "Flip the Age Switch")
+ 
 
 Each of these isn’t just maintenance—it’s flipping a biological switch that reverses decline and upgrades performance. 
 
  
  
 
-# 3️⃣ How to Activate This Switch in Your Own Body 
+**3️⃣ How to Activate This Switch in Your Own Body** 
 
  
  
@@ -74,7 +75,7 @@ This isn’t about generic advice like “exercise more”—this is about preci
  
  
 
-# 4️⃣ The Takeaway: Aging Isn’t a Number—It’s a Choice 
+**4️⃣ The Takeaway: Aging Isn’t a Number—It’s a Choice** 
 
 • The real switch isn’t just effort—it’s consistency in the right type of effort. 
 
@@ -86,7 +87,7 @@ This isn’t about generic advice like “exercise more”—this is about preci
 
  
 
-# 5️⃣ Personal Experience – A Testament to Flipping the Switch 
+**5️⃣ Personal Experience – A Testament to Flipping the Switch** 
 
  
  
@@ -106,9 +107,9 @@ I’ve had colleagues refuse to believe my real age until I show them my ID. Tha
 
  
 
-# 6️⃣ Key Takeaways – Flipping the Switch on Aging 
+**6️⃣ Key Takeaways – Flipping the Switch on Aging**
 
-![Reversing the body clock ](/assets/images/reversing_bodyclock.png "Reversing the body clock")
+![Reversing the body clock ](/assets/images/reverse_body_clock.png "Reversing the body clock")
 
  Workout and habits literally change DNA, I am living proof of this. I am sharing with you two important factors that directly contribute to flipping the switch on ageing and in turn reversing the body clock.
 
@@ -116,25 +117,15 @@ I’ve had colleagues refuse to believe my real age until I show them my ID. Tha
 
 ✔ Reversing the Body Clock Table – How strength training, HIIT, sleep, and recovery literally turn back the aging process. 
 
-Now, what is epigenetics? What does literally mean to reverse body clock? And how do they truly impact aging? Tune in for the next blog post.
+
+
+
+# Principle What It Does Actionable Step 
+
 
  ![Epigenetic Activation ](/assets/images/epigenetics_activation.png "Epigenetic Activation")
 
-
-Principle What It Does Actionable Step 
-
-Strength Training Rebuilds muscle, strengthens bones, increases testosterone, prevents aging-related decline Lift weights 3–4x a week, focusing on compound movements (squats, deadlifts, presses) 
-
-HIIT Workouts Boosts metabolism, enhances mitochondrial function, increases growth hormone (GH) Add 2 short HIIT sessions/week (sprints, explosive workouts) 
-
-Deep Sleep Optimization Enhances recovery, testosterone, GH release, and neural repair Prioritize 7-9 hours of deep sleep, no screens before bed 
-
-Nutrient Timing & Fasting Triggers autophagy, stabilizes insulin, optimizes longevity pathways Try 16:8 intermittent fasting or protein-timed meals post-workout 
-
-Brain & Cognitive Focus Increases BDNF, sharpens memory, prevents cognitive decline Strength train + HIIT to stimulate brain function 
-
- [Epigenetic Activation ](/blogs/assets/images/epigenetic_activation.jpg "Epigenetic Activation")
-
+### **Now, what is epigenetics? What does literally mean to reverse body clock? And how do they truly impact aging? Stay in-tune in for the next blog post.**
  
 
  

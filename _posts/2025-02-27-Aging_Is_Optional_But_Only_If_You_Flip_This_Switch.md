@@ -107,7 +107,7 @@ I’ve had colleagues refuse to believe my real age until I show them my ID. Tha
 
  
 
-**6️⃣ Key Takeaways – Flipping the Switch on Aging**
+**6️⃣ How does it work ?**
 
 ![Reversing the body clock ](/assets/images/reverse_body_clock.png "Reversing the body clock")
 
@@ -120,7 +120,7 @@ I’ve had colleagues refuse to believe my real age until I show them my ID. Tha
 
 
 
-# Principle What It Does Actionable Step 
+### **Bottomline - The factors that decide**
 
 
  ![Epigenetic Activation ](/assets/images/epigenetics_activation.png "Epigenetic Activation")

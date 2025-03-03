@@ -18,7 +18,7 @@ In this first post of The Happiness Equation series, we explore why our daily ha
  
  
 
-### 🔹 Introduction: What is True Happiness? ###
+### 🔹 **Introduction: What is True Happiness ?** 
 
  • Not just money, career, or success—happiness is a balance of physical, emotional, and spiritual well-being. 
 
@@ -26,7 +26,7 @@ In this first post of The Happiness Equation series, we explore why our daily ha
 
  
 
-### 🔹 The Silent Killer: Modern Lifestyle is a Trap ###
+### 🔹 **The Silent Killer: Modern Lifestyle is a Trap**
 
  • Sitting for 8-10 hours → Weak body, slow metabolism. 
 
@@ -36,7 +36,7 @@ In this first post of The Happiness Equation series, we explore why our daily ha
 
  
 
-### 🔹 Professions That Put Your Health at Risk ###
+### 🔹 **Professions That Put Your Health at Risk** 
 
  • Corporate Desk Jobs → Sitting all day, low movement. 
 
@@ -48,7 +48,7 @@ In this first post of The Happiness Equation series, we explore why our daily ha
 
  
 
-### 🔹 The Realization Moment: Why You Need to Act Now ###
+### 🔹 **The Realization Moment: Why You Need to Act Now**
 
  • If you don’t proactively take care of your body, your body will force you to later. 
 
@@ -56,7 +56,7 @@ In this first post of The Happiness Equation series, we explore why our daily ha
 
  
 
-### 🔹 The Solution: Reclaiming Physical Health for True Happiness ##
+### 🔹 **The Solution: Reclaiming Physical Health for True Happiness**
 
  • The first step to a better life is movement—not just workouts, but changing how you live daily. 
 
